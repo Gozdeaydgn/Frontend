@@ -38,7 +38,6 @@ console.log(each);
 console.log("----------");
 
 names.forEach(each => console.log(each));
+//Burada, ok fonksiyonu(arrow function) each adıyla bir parametre alır ve her bir elemanı console.log() fonksiyonu aracılığıyla konsola yazdırır.
 
-//Burada, ok fonksiyonu each adıyla bir parametre alır 
-//ve her bir elemanı console.log() fonksiyonu aracılığıyla konsola yazdırır.
-//=> işareti, bir ok fonksiyonu (arrow function)
+
